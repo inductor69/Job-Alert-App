@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:checkableBehavior="single"
+        android:title="Category">
+        <menu>
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="All India Govt Jobs" />
+        <item
+            android:id="@+id/nav_contact"
+            android:icon="@drawable/ic_perm_contact_calendar_black_24dp"
+            android:title="State Govt Jobs" />
+        <item
+            android:id="@+id/nav_info"
+            android:icon="@drawable/ic_info_black_24dp"
+            android:title="Bank Jobs" />
+        <item
+            android:id="@+id/nav_ll"
+            android:icon="@drawable/ic_ll"
+            android:title="Teaching Jobs" />
+        <item
+            android:id="@+id/nav_ll1"
+            android:icon="@drawable/ic_ll1"
+            android:title="Engineering Jobs" />
+            <item
+                android:id="@+id/nav_ll2"
+                android:icon="@drawable/ic_ll1"
+                android:title="Railway Jobs" />
+            <item
+                android:id="@+id/nav_ll3"
+                android:icon="@drawable/ic_ll1"
+                android:title="Police Jobs" />
+
+        </menu>
+    </item>
+
+
+</menu>

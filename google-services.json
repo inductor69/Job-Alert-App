@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "607229898718",
+    "firebase_url": "https://free-job-alert-2020.firebaseio.com",
+    "project_id": "free-job-alert-2020",
+    "storage_bucket": "free-job-alert-2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607229898718:android:f2a518be85285966e6774f",
+        "android_client_info": {
+          "package_name": "com.freejob.alert2020"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607229898718-fbctqn9aj5lgap979l73mi7618h310pg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVf3RcbOCR5pMzvlrEKAqUqgNL5J6jbrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607229898718-fbctqn9aj5lgap979l73mi7618h310pg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

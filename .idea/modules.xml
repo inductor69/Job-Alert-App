@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Advanced-Android-WebView-master.iml" filepath="$PROJECT_DIR$/Advanced-Android-WebView-master.iml" group="Advanced-Android-WebView-master" />
+      <module fileurl="file://$PROJECT_DIR$/PM Kisan Yojna 2020.iml" filepath="$PROJECT_DIR$/PM Kisan Yojna 2020.iml" group="PM Kisan Yojna 2020" />
+      <module fileurl="file://$PROJECT_DIR$/app/PM Kisan Yojna 2020-app.iml" filepath="$PROJECT_DIR$/app/PM Kisan Yojna 2020-app.iml" group="PM Kisan Yojna 2020/app" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Advanced-Android-WebView-master/app" />
+    </modules>
+  </component>
+</project>
